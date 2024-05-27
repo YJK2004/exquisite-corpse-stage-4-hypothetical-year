@@ -65,11 +65,11 @@ Some of the specific syntax in this code was given to me by both chatGPT, and so
 The code loses some functionality after September, and the background images stop changing, while the flowers just keep appearing on top of one another. Though I am unsure why this is happening, I think it actually adds to the message I was trying to portray. Sometimes we get so caught up in carrying out daily tasks, and dealing with our busy lives that we don't stop to appreciate what is around us. Eventually in this code, time itself stops, and the beautiful things that once went unnoticed, start piling on top of one another, making them unmistakeable, thus forcing you to take notice of them. It acts as a sort of intervention, showing the viewer that if they don't take the time to stop and slow down, the aspects of life they are missing will keep piling and piling.
 
 ### 🟦 Stage 4
-- Name/Alias:
-- Github account:
-- Published webpage for stage 4:
+- Name/Alias: Sarah
+- Github account: https://github.com/YJK2004
+- Published webpage for stage 4: https://yjk2004.github.io/exquisite-corpse-stage-4-hypothetical-year/
+#### notes
 
-*... comments to be added here*
 
 ### 🟪 Stage 5
 - Name/Alias:
