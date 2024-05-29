@@ -69,7 +69,7 @@ The code loses some functionality after September, and the background images sto
 - Github account: https://github.com/YJK2004
 - Published webpage for stage 4: https://yjk2004.github.io/exquisite-corpse-stage-4-hypothetical-year/
 #### notes
-
+I uses a 'gameState' variable to manage the flow of the game('start', 'forest', 'meadow', 'forestPath', 'meadowPath', 'gardenPath', 'end'). The player starts the adventure by choosing a location, based on the location, they encounter different scenarios where they can make further choices. Also the game uses images and csv file to provide a visual context for each scene. The 'keyPressed' function handles user inputs to navigate through different states based on the currrent state and key pressed. This structure provides a simple but engaging text-based adventure with visual elements. The story can be expanded by adding more pathways, scenes, and detailed narratives. 
 
 ### 🟪 Stage 5
 - Name/Alias:
